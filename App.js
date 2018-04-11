@@ -88,8 +88,7 @@ export default class ImageGallery extends Component {
     },
     text: {
       color: '#fff',
-    }
-  
+    },
   });
   
   AppRegistry.registerComponent('ImageGallery', () => ImageGallery);
